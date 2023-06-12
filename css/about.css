@@ -1,0 +1,125 @@
+.section-1{
+  height: 500px;
+  background-color: #002B5B;
+  align-content: center;
+}
+
+.container-1{
+  display: block;
+  padding-top: 100px;
+}
+.title-main{
+  text-align: center;
+  align-items: center;
+  text-transform: uppercase;
+  color: white;
+  cursor: default;
+}
+.sub-main{
+  text-align: center;
+  width: 700px;
+  margin-left: 370px;
+  color: white;
+  cursor: default;
+  margin-top: 30px;
+  font-size: 22px;
+}
+.section-2{
+  height: 600px;
+}
+.video-title{
+  font-size: 38px;
+  text-align: center;
+  font-weight: 600;
+  word-spacing: 10px;
+  padding: 5px 0px;
+  margin-top: 70px;
+  margin-left: 40%;
+  border: none;
+  border-radius: 15px;
+  text-transform: uppercase;
+  color: white;
+  background-color: #159895;
+  width: 250px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.section-3{
+  height: 800px;
+  align-items: center;
+}
+video{
+  margin-left: 21%;
+  margin-top:1%;
+}
+.history-img{
+  width: 500px;
+  float: right;
+  padding-top: 90px;
+  display: flex;
+  margin-right: 90px;
+}
+.history-title{
+  font-size: 38px;
+  text-align: center;
+  font-weight: 600;
+  word-spacing: 10px;
+  padding: 10px 50px;
+  margin-top: 40px;
+  margin-left: 350px;
+  border: none;
+  border-radius: 15px;
+  text-transform: uppercase;
+  color: white;
+  background-color: #159895;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.article-container{
+  padding-top: 50px;
+  position: absolute;
+}
+.history-article{
+  width: 700px;
+  text-align: justify;
+  margin-left: 90px;
+  margin-top: 10px;
+  text-indent: 20px;
+}
+.section-4{
+  height: 400px;
+  background-color: #159895;
+}
+.business-title {
+  text-align: center;
+  padding-top: 20px;
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+}
+.container-table{
+  justify-content: center;
+  align-items: center;
+}
+table{
+  border-collapse: collapse;
+  border: 1px solid white;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+th, td {
+  padding: 8px;
+  text-align: left;
+  border: 1px solid white;
+  
+}
+td{
+  color: white;
+}
+th{
+  background-color: white;
+  border-bottom: 1px solid black;
+}
+
+        
+        
